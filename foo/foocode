@@ -4,3 +4,5 @@ foo code 2
 I just rebased, can use `changes written after foo branch starts (will be rebased)`!
 
 Rebased though pushed
+
+Change after bar pushed
